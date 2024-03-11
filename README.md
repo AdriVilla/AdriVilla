@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AdriVilla
-- 👀 I’m interested in Data Science, especially in ML and Neural Networks.
-- 🍀 I’m looking looking for a job in Data Science related fields.
+- 👀 I’m interested in Data Science enthusiast.
 - 📫 How to reach me: adri13villa@gmail.com
 
 <!---
